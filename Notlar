@@ -1,0 +1,12 @@
+solidity test turleri
+
+Unit
+Integrations
+forked
+staging <- mainnet ya da testnet agi uzerinde kodu test et
+fuzzing
+stateful fuzz
+stateless fuzz
+formal verification
+
+forge test --debug testismi bu sekilde kullaninca opcode vs daha detayli gosteriyor
